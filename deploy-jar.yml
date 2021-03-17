@@ -10,4 +10,4 @@
 #      copy:
 #        src: ./target/Lab3Junit-1.0-SNAPSHOT.jar
 #        dest: ~/
-#        mode: '0755'
+#        mode: '07550'
